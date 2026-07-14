@@ -1,5 +1,7 @@
 # ttysvg
 
+## Archived, moved to [github.com/shellcell/ttysvg](https://github.com/shellcell/ttysvg)
+
 `ttysvg` records an interactive terminal session and converts it to an animated SVG after the session exits. Single static Go binary.
 
 ![ttysvg usage animation](/resources/ttysvg.svg)
